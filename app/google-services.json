@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "562499439393",
+    "firebase_url": "https://cloud-project-1fb28.firebaseio.com",
+    "project_id": "cloud-project-1fb28",
+    "storage_bucket": "cloud-project-1fb28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562499439393:android:fab4c4159ff2eee3",
+        "android_client_info": {
+          "package_name": "site.nobu.cloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562499439393-pkanm39dd48em1cg3paj4rimiir3tqha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHJSLN6tTjh0sQlZlkyCN9n1RdT2wWc6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
